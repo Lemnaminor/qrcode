@@ -1,5 +1,6 @@
-##微信小程序
-![12.png](https://upload-images.jianshu.io/upload_images/6135193-10700732a6c522f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+## 微信小程序
+
+![image](https://upload-images.jianshu.io/upload_images/6135193-10700732a6c522f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 **wxml**
 ```
