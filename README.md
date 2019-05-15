@@ -1,3 +1,11 @@
+## wxqrcode
+
+微信小程序目录
+
+## zhbqrcode
+
+支付宝小程序目录
+
 ## 微信小程序
 
 ![image](https://upload-images.jianshu.io/upload_images/6135193-10700732a6c522f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
