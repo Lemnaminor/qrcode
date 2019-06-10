@@ -231,7 +231,7 @@ Page({
 	onReady() {
 		// 页面加载完成
 		let that = this;
-		let code = that.data.code//需要的生成二维码的图片
+		let code = that.data.code//需要的生成二维码的code
 		let width = 680 //条形码长度
 		let widthq = 420//二维码边长
 		let height = 200 //条形码高度
