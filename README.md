@@ -1,8 +1,7 @@
-## wxqrcode
-
+## [wxqrcode](#微信小程序)
 微信小程序目录 （在微信小程序开发者工具中 切记勾选ES6转ES5）
 
-## zhbqrcode
+## [zhbqrcode](#支付宝小程序)
 
 支付宝小程序目录
 
